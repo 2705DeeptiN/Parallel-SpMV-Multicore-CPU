@@ -1,0 +1,6 @@
+bin/
+.venv/
+__pycache__/
+*.exe
+datasets/
+shared_with_cluster/
