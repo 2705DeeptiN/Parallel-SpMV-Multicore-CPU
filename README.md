@@ -135,5 +135,4 @@ After all experiments and analysis, run `python scripts\package_handoff.py`. Rev
 
 Teams 6 and 7 must use the same matrix and vector for fair comparisons. Team 8 needs the exact raw/processed CSV and consistent identifiers.
 
-## Deliverables checklist
-See `report/TEAM5_CHECKLIST.md`. Fill every item with actual evidence before submission.
+
